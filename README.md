@@ -1,4 +1,4 @@
-**#CS669 : Pattern Recognition **
+**#CS669 : Pattern Recognition**
 
 **##Programming Assignment 1 : Bayes classifier**
 
