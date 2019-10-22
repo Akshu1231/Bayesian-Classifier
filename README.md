@@ -1,10 +1,10 @@
-#CS669 : Pattern Recognition 
+**#CS669 : Pattern Recognition **
 
-##Programming Assignment 1 : Bayes classifier
+**##Programming Assignment 1 : Bayes classifier**
 
-###Steps :
+**###Steps :**
 
-Run this command:
+*Run this command:*
 
 	python main.py option_case class1.txt class2.txt class3.txt lower_x_limit upper_x_limit lower_y_limit upper_y_limit
 
